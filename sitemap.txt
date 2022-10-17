@@ -1,12 +1,12 @@
 http://example.com/2021/09/21/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 http://example.com/2021/09/21/Flutter%E4%BD%BF%E7%94%A8qr_code_scanner%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/
-http://example.com/links/index.html
 http://example.com/categories/index.html
-http://example.com/tags/index.html
+http://example.com/links/index.html
 http://example.com/repository/index.html
+http://example.com/tags/index.html
 http://example.com/404.html
-http://example.com/books/index.html
 http://example.com/about/index.html
+http://example.com/books/index.html
 http://example.com/
 http://example.com/tags/Flutter/
 http://example.com/tags/%E5%85%B6%E4%BB%96/
