@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://example.com/2022/09/21/Flutter/</loc>
-    <lastmod>2022-09-21</lastmod>
+    <loc>http://example.com/2021/09/21/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2022-10-17</lastmod>
   </url>
   <url>
-    <loc>http://example.com/2022/09/15/hello-world/</loc>
-    <lastmod>2022-09-15</lastmod>
+    <loc>http://example.com/2021/09/21/Flutter%E4%BD%BF%E7%94%A8qr_code_scanner%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    <lastmod>2022-10-17</lastmod>
   </url>
 </urlset> 
