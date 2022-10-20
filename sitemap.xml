@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/links.json</loc>
-    
-    <lastmod>2022-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2019/09/08/Hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2022-10-20</lastmod>
@@ -56,16 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/links/index.html</loc>
-    
-    <lastmod>2022-09-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -83,7 +65,16 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://example.com/links/index.html</loc>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -128,14 +119,14 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E5%85%B6%E4%BB%96/</loc>
+    <loc>http://example.com/tags/Flutter/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Flutter/</loc>
+    <loc>http://example.com/tags/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -151,14 +142,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
+    <loc>http://example.com/categories/Flutter-%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Flutter-%E5%BC%80%E5%8F%91/</loc>
+    <loc>http://example.com/categories/%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
