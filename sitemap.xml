@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2021/06/15/Flutter%E4%BD%BF%E7%94%A8qr_code_scanner%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
+    
+    <lastmod>2022-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2017/11/25/UIScrollView%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE/</loc>
     
     <lastmod>2022-10-20</lastmod>
@@ -38,16 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/06/15/Flutter%E4%BD%BF%E7%94%A8qr_code_scanner%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/</loc>
-    
-    <lastmod>2022-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://example.com/links/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/links/index.html</loc>
+    <loc>http://example.com/repository/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/repository/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -119,6 +119,13 @@
 
   
   <url>
+    <loc>http://example.com/tags/%E5%85%B6%E4%BB%96/</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/Flutter/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -127,13 +134,6 @@
   
   <url>
     <loc>http://example.com/tags/iOS/</loc>
-    <lastmod>2022-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
