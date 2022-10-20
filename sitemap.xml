@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/repository/index.html</loc>
-    
-    <lastmod>2022-09-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/links/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
@@ -84,6 +75,15 @@
   
   <url>
     <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/repository/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -126,14 +126,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/iOS/</loc>
+    <loc>http://example.com/tags/Flutter/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Flutter/</loc>
+    <loc>http://example.com/tags/iOS/</loc>
     <lastmod>2022-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
