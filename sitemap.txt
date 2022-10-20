@@ -12,5 +12,5 @@ http://example.com/about/index.html
 http://example.com/books/index.html
 http://example.com/
 http://example.com/tags/Flutter/
-http://example.com/tags/iOS/
 http://example.com/tags/%E5%85%B6%E4%BB%96/
+http://example.com/tags/iOS/
